@@ -3,7 +3,7 @@
 
 ```
 下载：
-git clone git@github.com:sooof/pysim.git
+git clone git@github.com:4genginc/pysim.git
 
 测试github是否联通：
 ssh -T git@github.com
